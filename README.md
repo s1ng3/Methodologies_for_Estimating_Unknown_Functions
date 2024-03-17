@@ -1,8 +1,8 @@
-***Study on Methodologies for Estimating Unknown Functions***
+# ***Study on Methodologies for Estimating Unknown Functions***
 
 **Author:** Tudor-Cristian Sîngerean
 
-# Project Description
+## Project Description
 
 The objective of this project is to perform polynomial regression on a two-variable dataset, aiming to model the relationship between the input variables and the output variable.
 
@@ -49,14 +49,8 @@ In the provided dataset, the optimal model for the validation data corresponds t
 
 ## Conclusions
 
-- Depending on the given , the predicted model can suffer several changes due to its
+- Depending on the given , the predicted model can suffer several changes due to its malleable nature. Both overfitted and underfitted cases are based on the .
 
-malleable nature. Both overfitted and underfitted cases are based on the .
+- the **ĝ** matrix is computed by two input datasets that are approximated by a polynomial function in order to result a predictive model on a given situation.
 
-- the **ĝ** matrix is computed by two input datasets that are approximated by a polynomial
-
-function in order to result a predictive model on a given situation.
-
-- Real life problems such as predicting the spread of a virus or other infectious diseases,
-
-evaluating trends and forecasts.
+- Real life problems such as predicting the spread of a virus or other infectious diseases, evaluating trends and forecasts.
