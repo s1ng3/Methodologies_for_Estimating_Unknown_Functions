@@ -22,6 +22,7 @@ By increasing or decreasing the degree *,* the dimensions of the matrix ϕ chang
 
 Upon  achieving  the  coefficients θ , the generation of the predictive model for both the identification and validation datasets results through the matrix multiplication of ϕ and θ.
 
+![idvalerror](https://github.com/s1ng3/Shoe_Shop/assets/89934251/e782270f-f5f6-4bf7-82b9-0d9204ee1e27)
 
 3. **Tuning parameters**
 
@@ -51,7 +52,7 @@ It can be observed that the identification error slightly differs from the valid
 
 In the provided dataset, the optimal model for the validation data corresponds to = 5. Additionally, it's noticeable that as increases, the Mean Squared Error (MSE) for the training data decreases, indicating a better fit. However, for the validation data, the MSE tends to increase for larger values, suggesting the occurrence of overfitting.
 
-
+![data_variation](https://github.com/s1ng3/Shoe_Shop/assets/89934251/a58d61ae-aa15-498f-ad49-af4e9e9bef13)
 
 5. **Conclusions**
 
