@@ -1,6 +1,6 @@
-# ***Study on Methodologies for Estimating Unknown Functions*** 📚
+# ***Study on Methodologies for Estimating Unknown Functions***
 
-**Author:** Tudor-Cristian Sîngerean 🧑‍💼
+**Author:** Tudor-Cristian Sîngerean
 
 ## Project Description
 
